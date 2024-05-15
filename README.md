@@ -89,11 +89,8 @@ while (iterator.hasNext()) {
 }
 ```
 
-## Ambos os métodos de iteração produzirão a mesma saída, percorrendo os elementos da lista e imprimindo cada um deles.
+## Ambos os métodos de iteração produzirão a mesma saída, percorrendo os elementos da lista e imprimindo cada um deles
 
 Considerações Finais
 
 As coleções em Java são uma parte essencial da linguagem e são amplamente utilizadas em praticamente todos os tipos de aplicativos Java. Compreender como trabalhar com diferentes tipos de coleções e saber escolher a estrutura de dados certa para uma determinada tarefa é fundamental para escrever código eficiente e limpo em Java.
-
-
-
