@@ -1,4 +1,4 @@
-package exemplos.list.listadetarefa;
+package exemplos.list.carrinhodecompras;
 
 import java.util.ArrayList;
 import java.util.List;

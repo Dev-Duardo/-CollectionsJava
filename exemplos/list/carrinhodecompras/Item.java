@@ -1,11 +1,11 @@
-package exemplos.list.listadetarefa;
+package exemplos.list.carrinhodecompras;
 
 public class Item {
     //Atributos privados:
     private String nomeItem;
     private double precoItem;
     private int quantidadeItem;
-    
+
     // Construtor: Permite criar um objeto Item com um nome, preço e quantidade específicos.
     public Item (String nomeItem, double precoItem, int quantidadeItem){
         this.nomeItem = nomeItem;
