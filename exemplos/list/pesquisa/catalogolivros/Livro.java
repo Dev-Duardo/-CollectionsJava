@@ -1,4 +1,4 @@
-package exemplos.list.pesquisa;
+package exemplos.list.pesquisa.catalogolivros;
 
 public class Livro {
     //Atributos
@@ -25,4 +25,10 @@ public class Livro {
         return anoPublicacao;
     }
 
+    @Override
+    public String toString() {
+        return "Livro [titulo=" + titulo + ", autor=" + autor + ", anoPublicacao=" + anoPublicacao + "]";
+    }
+
+    
 }
