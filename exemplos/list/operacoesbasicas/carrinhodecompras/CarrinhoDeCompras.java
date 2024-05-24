@@ -1,4 +1,4 @@
-package exemplos.list.carrinhodecompras;
+package exemplos.list.operacoesbasicas.carrinhodecompras;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +24,7 @@ public class CarrinhoDeCompras {
 
     // Método 'removerItem':
     // Remove todos os itens com um nome específico do carrinho.
-    public void removerItem (String nomeItem, int quantidade) {
+    public void removerItem (String nomeItem) {
         List<Item> itensParaRemover = new ArrayList<>();
         if (!itemList.isEmpty()) {
             for (Item i : itemList) {

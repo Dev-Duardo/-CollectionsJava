@@ -1,4 +1,4 @@
-package exemplos.list.carrinhodecompras;
+package exemplos.list.operacoesbasicas.carrinhodecompras;
 
 public class Item {
     //Atributos privados:

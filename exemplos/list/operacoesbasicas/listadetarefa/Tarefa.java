@@ -1,4 +1,4 @@
-package exemplos.list.listadetarefa;
+package exemplos.list.operacoesbasicas.listadetarefa;
 
 public class Tarefa {
     //atributo

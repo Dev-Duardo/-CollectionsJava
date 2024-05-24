@@ -1,4 +1,4 @@
-package exemplos.list.listadetarefa;
+package exemplos.list.operacoesbasicas.listadetarefa;
 import java.util.ArrayList;
 import java.util.List;
 
